@@ -18,11 +18,12 @@ E2E AIと多重系ADSを中核とするL4自動運転車両の安全論証
 | 目次（章立て） | **第2版構成（22章＋Appendix A〜I）に置換済** |
 | 第6章 ISO規格と国際規制の適用方針 | **第2版相当に書き換え済**（SOTIFは概念借用のみ・ISO 21448準拠は目的としない） |
 | 第0〜5章、第7〜13章、第15〜16章 旧本文 | **初版本文を残置**（後続改訂で順次第2版化） |
-| 第14章（サイバーセキュリティ）、第18章（事故対応）、第19章（段階的社会実装）、第16章（型式指定スキーム） | **未着手**（後続改訂で新規執筆） |
+| 第14章（サイバーセキュリティ） | **第2版相当に新規執筆済**（別ドラフト `06_Chapter14_Cybersecurity_draft.md` を参照。第2版本文に統合予定） |
+| 第18章（事故対応）、第19章（段階的社会実装）、第16章（型式指定スキーム） | **未着手**（後続改訂で新規執筆） |
 | Appendix A〜D | 初版を残置 |
 | Appendix E（ISO・規制対応マップ詳細版） | 別ドラフト `04_Appendix_E_ISO_Mapping_detailed.md` を参照（第2版本文に統合予定） |
 | Appendix F〜I | 後続改訂で整備 |
-| 衛星文書骨子 | `02_VMC_IF_Specification_draft.md`、`03_Vehicle_Requirements_Specification_draft.md`、`05_Chapter9_HeterogeneousSoC_draft.md` を参照 |
+| 衛星文書骨子 | `02_VMC_IF_Specification_draft.md`、`03_Vehicle_Requirements_Specification_draft.md`、`05_Chapter9_HeterogeneousSoC_draft.md`、`06_Chapter14_Cybersecurity_draft.md` を参照 |
 
 そのため、本書を読む際は、第2版章立てと第6章本文を「方向性の確定版」、その他の本文を「初版のまま参照する補助資料」と扱われたい。
 
